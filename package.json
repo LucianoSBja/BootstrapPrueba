@@ -1,0 +1,22 @@
+{
+  "name": "bootstrapprueba",
+  "version": "1.0.0",
+  "description": "curso de coursera",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucianoSBja/BootstrapPrueba.git"
+  },
+  "author": "Luciano Ezequiel Soto Bonja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucianoSBja/BootstrapPrueba/issues"
+  },
+  "homepage": "https://github.com/LucianoSBja/BootstrapPrueba#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.1"
+  }
+}
