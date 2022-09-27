@@ -1,0 +1,35 @@
+.jumbotron {
+    background-color:slategray;
+    color: orange;
+    text-align: center;
+}
+
+.btn {
+    background-color: black !important; 
+}
+
+.titulo{
+    text-align: center;
+}
+
+.parrafos{
+    text-align: center;
+}
+
+footer {
+    background-color: slategray;
+    color: orange;
+    padding: 10px 10px 0 10px;
+    margin-bottom: 0px;
+    margin-top: 10px;
+}
+
+.card-flex {
+    flex: 1 150px;
+    padding: 2px 10px 2px 10px ;
+    margin-top: 20px;
+}
+
+.btn-reseva {
+    width: 100%;
+}
